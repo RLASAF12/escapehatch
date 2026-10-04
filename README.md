@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/escapehatch) (folder `escapehatch/`, full history preserved). Archived 2026-10-04.
+
 # EscapeHatch
 
 > **Agent Failure Series #10** — An interactive simulation of AI agent sandbox escape.
